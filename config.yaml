@@ -1,0 +1,6 @@
+defaults:
+  breach_lists_dir: "breach_lists"
+  org_cidr_lists_dir: "org_cidr_lists"
+  org_ip_lists_dir: "org_ip_lists"
+  output_dir: "output"
+  recursive: true
