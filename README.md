@@ -28,7 +28,7 @@ A script to check breached IPs against organizational CIDR ranges and IP lists. 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/BadSamuraiDev/breach_check.git
     ```
 2. Navigate to the project directory:
     ```bash
